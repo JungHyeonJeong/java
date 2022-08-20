@@ -6,5 +6,9 @@ public class gitTest {
         System.out.println("Test1 - git");
         System.out.println("Test1 - git");
 
+        System.out.println("git Test 3");
+        System.out.println("git Test 3");
+        System.out.println("git Test 3");
+
     }
 }

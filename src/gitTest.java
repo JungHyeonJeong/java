@@ -1,18 +1,14 @@
-
+import java.sql.SQLOutput;
 
 public class gitTest {
     public static void main(String[] args) {
-        System.out.println("git Test");
-
-        System.out.println("Test1 - git");
-        System.out.println("Test1 - git");
-        System.out.println("Test1 - git");
-
-        System.out.println("git Test 3");
-        System.out.println("git Test 3");
-        System.out.println("git Test 3");
-
-        System.out.println("this is first github");
+        System.out.println("정수의 최대값 :" + Integer.MAX_VALUE); // 2의 16제곱
+        System.out.println("정수의 최소값 :" + Integer.MIN_VALUE);
+        System.out.println("byte의 최대값 :" + Byte.MAX_VALUE);
+        System.out.println("byte의 최소값 :" + Byte.MIN_VALUE);
+        System.out.println("정수의 사이즈 :" + Integer.SIZE);
+        System.out.println("float의 사이즈 :" + Float.SIZE);
+        System.out.println("double의 사이즈 :" + Double.SIZE);
 
     }
 }
